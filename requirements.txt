@@ -1,0 +1,4 @@
+# RepoScout-AI - 轻量级AI驱动GitHub仓库智能发现与推荐引擎
+#
+# 零外部依赖，仅使用Python标准库
+# Python 3.8+
